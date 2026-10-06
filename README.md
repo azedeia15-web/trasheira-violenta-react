@@ -12,7 +12,7 @@ KEVEN DE SOUZA OLIVEIRA DO CARMO
 - Os arquivos originais usados como comparação estão na pasta `referencia-html/`.
 
 ## Site publicado
-**COLE AQUI O LINK DO NETLIFY**
+[https://chic-fudge-2c622c.netlify.app]
 
 ## Tecnologias
 - React
