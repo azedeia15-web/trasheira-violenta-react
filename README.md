@@ -5,6 +5,9 @@ Parte 2 individual do trabalho de Desenvolvimento Frontend II.
 ## Autor
 KEVEN DE SOUZA OLIVEIRA DO CARMO
 
+## Repositório
+[https://github.com/azedeia15-web/trasheira-violenta-react]
+
 ## Origem
 - Site original: projeto em HTML/CSS/JavaScript da Parte 1.
 - Página migrada para a Landing: `loja.html`.
