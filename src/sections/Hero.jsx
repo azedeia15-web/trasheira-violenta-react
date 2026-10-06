@@ -12,7 +12,7 @@ export default function Hero() {
           </h1>
 
           <p className="mt-6 max-w-2xl text-lg leading-8 text-zinc-400">
-            Reviews, recomendações e conteúdos sobre jogos, filmes e séries,
+            Reviews, recomendações e conteúdos sobre filmes, séries e jogos em uma única experiência.
             agora reunidos em uma experiência direta com a loja oficial do projeto.
           </p>
 
