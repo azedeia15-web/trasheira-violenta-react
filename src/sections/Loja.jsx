@@ -76,8 +76,8 @@ export default function Loja() {
               PRODUTOS DA TRASHEIRA
             </h2>
             <p className="mt-4 max-w-2xl leading-7 text-zinc-400">
-              Produtos demonstrativos inspirados no projeto. O carrinho funciona
-              no navegador e os itens são organizados por categoria.
+              Produtos inspirados na identidade visual da Trasheira Violenta.
+Explore as categorias e adicione seus itens favoritos ao carrinho.
             </p>
           </div>
 
