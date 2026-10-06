@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  color-scheme: dark;
+  background: #030303;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background:
+    radial-gradient(circle at 50% 0%, rgba(100, 0, 0, 0.20), transparent 32%),
+    #030303;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.section-anchor {
+  scroll-margin-top: 82px;
+}
+
+.hero-noise {
+  background:
+    radial-gradient(circle at 12% 35%, rgba(100,0,0,.30), transparent 15%),
+    radial-gradient(circle at 90% 65%, rgba(100,0,0,.25), transparent 17%),
+    linear-gradient(90deg, rgba(255,255,255,.015) 1px, transparent 1px);
+  background-size: auto, auto, 5px 5px;
+}
+
+.blood-logo {
+  color: #e50909;
+  text-shadow:
+    0 3px 0 #700000,
+    0 6px 0 #330000,
+    0 0 18px rgba(255,0,0,.25);
+  filter: drop-shadow(0 0 2px red);
+}
+
+.nav-link {
+  white-space: nowrap;
+  transition: color .2s ease;
+}
+
+.nav-link:hover {
+  color: #ef4444;
+}
+
+.produto-card {
+  transition: transform .25s ease, border-color .25s ease, box-shadow .25s ease;
+}
+
+.produto-card:hover {
+  transform: translateY(-6px);
+  border-color: #991b1b;
+  box-shadow: 0 0 30px rgba(229, 9, 9, .15);
+}
