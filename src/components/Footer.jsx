@@ -7,7 +7,7 @@ export default function Footer() {
             TRASHEIRA<br />VIOLENTA
           </p>
           <p className="mt-5 max-w-md leading-6">
-            Projeto acadêmico em React, mantendo a identidade visual do site original.
+            Projeto acadêmico desenvolvido em React com base no site original.
           </p>
         </div>
 
